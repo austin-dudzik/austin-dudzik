@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<code><img src="https://github-readme-stats.vercel.app/api?username=austin-dudzik&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff"></code>
+
 <!--
 **austin-dudzik/austin-dudzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
