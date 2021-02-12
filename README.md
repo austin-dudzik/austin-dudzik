@@ -7,32 +7,32 @@
 [![Website](https://img.shields.io/website?label=dudzik.dev&style=for-the-badge&url=https%3A%2F%2Fdudzik.dev)](https://dudzik.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/austinthemaker?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Faustinthemaker&screen_name=austinthemaker)
 
+I'm a 19 year old college student, part-time indie maker. In my free time, I'm likely building and launching new products in public. Currently, I'm building [Crinkle](https://crinkle.io), a branded link shortener with some advanced analytic and demographic features. I've also been working on [Stackpin](https://stackp.in), a static hosting platform focused around community code distribution.
 
-<!---<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/dribbble.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/behance.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/producthunt.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />-->
+In 2021, I've made it my goal to develop and contribute to more open source projects, so I should be very active here on GitHub.
 
+If you'd like to learn more about myself and what I do, click the link to visit my website below. If you'd like to get in touch with me or have any potential work opportunities, feel free to reach out to me over any of my social media.
+
+[Visit dudzik.dev](https://dudzik.dev)
 
 ---
 
 
 ### Connect with me:
 
-[<img align="left" alt="Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
-[<img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Product Hunt" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/producthunt.svg" />][producthunt]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/dribbble.svg" />][dribbble]
+[<img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/behance.svg" />][behance]
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />][github]
+[<img align="left" alt="Product Hunt" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/producthunt.svg" />][producthunt]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Homepage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 
 <br />
 <br />
 
+---
 
 
 ### Languages and Tools:
@@ -69,28 +69,28 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    7 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
-🌆 Daytime    26 commits     ██████████████░░░░░░░░░░░   57.78% 
-🌃 Evening    7 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
-🌙 Night      5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+🌞 Morning    7 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
+🌆 Daytime    24 commits     ██████████████░░░░░░░░░░░   55.81% 
+🌃 Evening    7 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
+🌙 Night      5 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.63%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22% 
-Tuesday      24 commits     █████████████░░░░░░░░░░░░   53.33% 
-Wednesday    6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Thursday     10 commits     █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-Friday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
-Saturday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
+Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33% 
+Tuesday      24 commits     ██████████████░░░░░░░░░░░   55.81% 
+Wednesday    6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
+Thursday     10 commits     █████░░░░░░░░░░░░░░░░░░░░   23.26% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.65% 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -134,7 +134,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-<code><img src="https://github-readme-stats.vercel.app/api?username=austin-dudzik&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff"></code>
+<img src="https://github-readme-stats.vercel.app/api?username=austin-dudzik&show_icons=true&&bg_color=b13cff,dd45d3,fd9d52&title_color=fff&text_color=fff&icon_color=fff">
 
 
 [dribbble]: https://dribbble.com/austin-dudzik
