@@ -50,6 +50,78 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 72 Contributions in the Year 2021
+ > 
+> 📦 30.2 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    7 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
+🌆 Daytime    24 commits     ██████████████░░░░░░░░░░░   55.81% 
+🌃 Evening    7 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
+🌙 Night      5 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.63%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33% 
+Tuesday      24 commits     ██████████████░░░░░░░░░░░   55.81% 
+Wednesday    6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
+Thursday     10 commits     █████░░░░░░░░░░░░░░░░░░░░   23.26% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.65% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     4 repos             ████████████░░░░░░░░░░░░░   50.0% 
+JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+PHP                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/austin-dudzik/austin-dudzik/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 
