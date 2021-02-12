@@ -1,3 +1,5 @@
+![Optional Text](https://dudzikdev-staging.netlify.app/gh.png)
+
 ### Hi there, I'm Austin  👋
 
 
@@ -12,6 +14,8 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />-->
 
+
+---
 
 
 ### Connect with me:
@@ -48,6 +52,8 @@
 
 <br>
 <br>
+
+---
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
