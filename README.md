@@ -1,4 +1,4 @@
-![Optional Text](https://dudzikdev-staging.netlify.app/gh.png)
+![Optional Text](https://github.com/austin-dudzik/logos/blob/main/circle/PNG/48x48/color-gradient.png?raw=true)
 
 ### Hi there, I'm Austin  👋
 
