@@ -63,7 +63,7 @@ If you'd like to learn more about myself and what I do, click the link to visit 
 
 **🐱 My Github Data** 
 
-> 🏆 81 Contributions in the Year 2021
+> 🏆 82 Contributions in the Year 2021
  > 
 > 📦 30.3 kB Used in Github's Storage 
  > 
