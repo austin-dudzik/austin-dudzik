@@ -150,6 +150,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 [behance]: https://behance.net/austindudzik
 [github]: https://github.com/austin-dudzik
 [producthunt]: https://producthunt.com/@dudzik
-[linkedin]: https://linkedin.com/austin-dudzik
+[linkedin]: https://linkedin.com/in/austin-dudzik
 [twitter]: https://twitter.com/austinthemaker
 [website]: https://dudzik.dev
