@@ -63,13 +63,13 @@ If you'd like to learn more about myself and what I do, click the link to visit 
 
 **🐱 My Github Data** 
 
-> 🏆 99 Contributions in the Year 2021
+> 🏆 100 Contributions in the Year 2021
  > 
 > 📦 37.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
