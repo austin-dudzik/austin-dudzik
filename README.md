@@ -65,7 +65,7 @@ If you'd like to learn more about myself and what I do, click the link to visit 
 
 > 🏆 102 Contributions in the Year 2021
  > 
-> 📦 37.5 kB Used in Github's Storage 
+> 📦 37.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
