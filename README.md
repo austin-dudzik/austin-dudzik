@@ -59,7 +59,7 @@ If you'd like to learn more about myself and what I do, click the link to visit 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-140-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-251386%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-251533%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -127,10 +127,10 @@ Windows                  80 hrs 4 mins       ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     6 repos             █████████████░░░░░░░░░░░░   54.55% 
-JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+HTML                     6 repos             ████████████░░░░░░░░░░░░░   50.0% 
+JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
