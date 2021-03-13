@@ -59,11 +59,11 @@ If you'd like to learn more about myself and what I do, click the link to visit 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-253234%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-253243%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 151 Contributions in the Year 2021
+> 🏆 152 Contributions in the Year 2021
  > 
 > 📦 45.1 kB Used in Github's Storage 
  > 
