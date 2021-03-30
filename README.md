@@ -69,9 +69,9 @@ If you'd like to learn more about myself and what I do, click the link to visit 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 26 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 5 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
